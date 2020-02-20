@@ -1,27 +1,81 @@
 * {
     box-sizing: border-box;
-    margin: 0;
+    margin: 1;
     padding: 0;
 }
 
 main {
+    background-color: black;
     width: 1170px;
     height: 320px;
 }
 
 header {
+    background-color: blue;
     width: 800px;
     height: 90px;
+    float: right;
 }
 
 nav {
+    background-color: brown;
     width: 300px;
     height: 300px;
+    float: left;
+    margin-left: 12px;
+    margin-top: 8px;
 }
 
-.sec1 {}
+.sec1 {
+    background-color: chocolate;
+    width: 70px;
+    height: 100px;
+    float: right;
+    margin-left: 10px;
+    margin-top: 130px;
+}
 
-aside {}
+aside {
+    background-color: rgb(24, 206, 24);
+    width: 370px;
+    height: 720px;
+    float: left;
+}
+
+section {
+    background-color: darkkhaki;
+    width: 575px;
+    height: 490px;
+    float: left;
+}
+
+article {
+    background-color: darkred;
+    width: 1170px;
+    height: 720px;
+    clear: both;
+}
+
+.sec2 {
+    background-color: dimgrey;
+    width: 365px;
+    height: 545px;
+    margin: 85px;
+}
+
+.divs {
+    background-color: limegreen;
+    width: 270px;
+    height: 330px;
+    float: left;
+}
+
+footer {
+    background-color: midnightblue;
+    width: 1170px;
+    height: 330px;
+    clear: both;
+}
 
 #caixa {
     width: 1170px;
