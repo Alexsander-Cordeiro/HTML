@@ -1,0 +1,51 @@
+/* comentário ou  ctrl + ; */
+
+/*
+sintaxe:
+elemento {propriedade: valor;
+    propriedade:valor}
+    */
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lacquer', sans-serif;
+    }
+
+/* seletor de id */
+
+#paragrafo1 {
+    color:chocolate;
+    font-family: 'Lacquer', sans-serif;
+}
+
+#paragrafo2{
+    color:darkcyan;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    background-color: darkred;
+   }
+
+.grupo1 {
+    font-size: 35px;
+    color: tan;
+    }
+
+.grupo2 {
+    font-size: 40px;
+    color: rebeccapurple;
+}
+
+/* --------------------------------------------------- */
+
+
+<style>
+*{
+    box-sizing: border-box;
+    margin: 0;padding: 0;
+}
+
+
+</style>
