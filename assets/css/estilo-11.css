@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {}
+
+header {}
+
+nav {}
+
+#caixa {
+    width: 1170px;
+    height: 2780px;
+    margin: 0 auto;
+}
