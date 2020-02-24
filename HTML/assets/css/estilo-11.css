@@ -1,14 +1,7 @@
 * {
     box-sizing: border-box;
-    margin: 1;
+    margin: 0;
     padding: 0;
-}
-
-main {
-    background-color: black;
-    width: 1170px;
-    height: 320px;
-    margin-left: 15px;
 }
 
 header {
@@ -36,7 +29,7 @@ nav {
     float: right;
     margin-left: 5px;
     margin-right: 10px;
-    margin-top: 110px;
+    margin-top: 105px;
 }
 
 #as2 {
@@ -57,8 +50,8 @@ section {
     float: left;
     margin-left: 15px;
     margin-right: 5px;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 article {
@@ -66,16 +59,39 @@ article {
     width: 1170px;
     height: 720px;
     clear: both;
+    margin-left: 15px;
+    
 }
 aside {
     margin-top: 20px;
+}
+
+footer {
+    background-color: midnightblue;
+    width: 1170px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 16px;
+    float: left;
+    
+   
+}
+
+#caixinha {
+    background-color: black;
+    width: 1170px;
+    height: 320px;
+    margin-left: 15px;
+   
 }
 
 .sec2 {
     background-color: dimgrey;
     width: 365px;
     height: 545px;
-    margin: 85px;
+    margin-left: 150px;
+    margin-top: 80px;
+    
 }
 
 .divs {
@@ -83,14 +99,10 @@ aside {
     width: 270px;
     height: 330px;
     float: left;
+    margin-top: 20px;
+    margin-left: 24px;
 }
 
-footer {
-    background-color: midnightblue;
-    width: 1170px;
-    height: 330px;
-    clear: both;
-}
 #as1{
     background-color: fuchsia;
     float: left;
@@ -106,8 +118,9 @@ footer {
     margin-right: 20px;
 }
 #caixa {
-    background-color: brown;
+    background-color: salmon;
     width: 1200px;
     height: 2900px;
     margin: 0 auto;
+    margin-top: 1px;
 }
